@@ -17,4 +17,4 @@
 ###### Conditional statements
 ###### For loop
 ###### Comparisons
-###### Logials
+###### Logicals
